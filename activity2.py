@@ -40,4 +40,19 @@ print("Not equal ?",num1!=num2)
 
 result =num1/2+num2**2+10
 print("Result of above equation is = ",result)
-      
+
+first_name= "Ayaan"
+last_name= "Warraich"
+full_name= first_name+last_name
+example= "Hi"*5
+
+print("First name:",first_name)
+print("Last name:",last_name)
+print("Full name:",full_name)
+print("String multipled 5 times gives this result",example)
+
+word = "Hiphop"
+print("Lenght of string :",len(word))
+print("First letter of word :", word[0])
+print("Last letter of word :", word[5])
+print("String sliced : ",word[3:6])
